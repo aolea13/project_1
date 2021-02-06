@@ -58,7 +58,7 @@ By: Jason Sheridan, Anna Sours, Jenni Davis, Austin Olea, & Mark Blankenship
 *  Geopandas
 
 
-  *Methods: 
+  * Methods: 
     * API calls 
     * Shapefiles
     * Export/Import csv files
