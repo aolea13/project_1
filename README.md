@@ -102,7 +102,14 @@ By: Jason Sheridan, Anna Sours, Jenni Davis, Austin Olea, & Mark Blankenship
 ![county_lines.png](county_lines.png?raw=true "Title")
 
 ### Percent Change in Home Values 
-
+* The blue bars show the average home value increase over the 3 years prior to covid.
+ * pre_covid_annual=((((feb2020-mar2017)/feb2020)/3)*100).values[0]
+ 
+* The orange bars show the home value increase from March 2020, when the covid lockdowns began until December 2020.
+  * covid_annual=(((dec2020-mar2020)/dec2020)*100).values[0]
+  
+ Comparing the home values of the pre-Covid and during Covid time frames for the counties with the highest number of covid cases as well as the surrounding counties, most of the surrounging counties did see a greater percentage increase in home values after the Covid lockdowns began than in the years before Covid.
+ 
 #### California
 ![los_angles_metro.png](output_data/los_angles_metro.png?raw=true "Title")
 
