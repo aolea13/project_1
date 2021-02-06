@@ -100,3 +100,16 @@ By: Jason Sheridan, Anna Sours, Jenni Davis, Austin Olea, & Mark Blankenship
 
 #### Texas
 ![county_lines.png](county_lines.png?raw=true "Title")
+
+### Percent Change in Home Values 
+
+#### California
+![los_angles_metro.png](output_data/los_angles_metro.png?raw=true "Title")
+
+#### Florida
+![miami_metro_county.png](output_data/miami_metro_county.png?raw=true "Title")
+
+#### Texas
+![dfwmetro2.png](dfwmetro2.png?raw=true "Title")
+
+![houstonmetro2.png](houstonmetro2.png?raw=true "Title")
