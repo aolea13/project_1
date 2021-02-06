@@ -113,3 +113,16 @@ By: Jason Sheridan, Anna Sours, Jenni Davis, Austin Olea, & Mark Blankenship
 ![dfwmetro2.png](dfwmetro2.png?raw=true "Title")
 
 ![houstonmetro2.png](houstonmetro2.png?raw=true "Title")
+
+#### Conclusion Summary
+* In the majority of the metro-area counties analyzed, home values increased at a greater rate in 2020 than the average rate from 2017-2019. It also appears that values increased at a proportionally higher level in areas with lower COVID-19 cases.
+
+#### Implications of findings
+* What does our conclusion mean?
+  * According to these metrics, in most areas, we found increased home values in counties surrounding cities with highest  COVID-19 cases. This  could be due to a    desire to leave more densely populated areas, away from areas with higher COVID cases.
+* What are next steps/further analysis? 
+  * Analyze data from counties with major cities with fewer COVID-19 cases
+  * Analyze housing values against other market factors to further understand the impact of COVID-19
+  * Analyze type and size of home purchased against the type of home sold by a particular buyer
+
+  
